@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "TrashCache",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 25,
@@ -38,7 +38,9 @@
         "#e1adbb"
       ]
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-128x140.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
