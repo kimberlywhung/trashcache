@@ -1511,10 +1511,6 @@ body {
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qJeaseQeGZ .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1609,10 +1605,6 @@ body {
   .cid-qJeaseQeGZ .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-qJeaseQeGZ .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qJeaseQeGZ .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-qJeaseQeGZ .navbar-collapse.collapsing .navbar-buttons,
   .cid-qJeaseQeGZ .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1671,7 +1663,7 @@ body {
 }
 .cid-qJeaseQeGZ .nav-link:hover,
 .cid-qJeaseQeGZ .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #cebfaf !important;
 }
 .cid-qJeasgoQwn {
   background-image: url("../../../assets/images/jumbotron.jpg");
@@ -1761,10 +1753,36 @@ body {
     text-align: center;
   }
 }
+.cid-qO61BhUIgq .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-qO61BhUIgq .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-qO61BhUIgq .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-qO61BhUIgq .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-qO61BhUIgq .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
 .cid-qK7YyRabnJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f4f1ea;
 }
 .cid-qK7YyRabnJ .google-map {
   height: 25rem;
@@ -2086,10 +2104,6 @@ body {
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qJeaseQeGZ .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qJeaseQeGZ .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2184,10 +2198,6 @@ body {
   .cid-qJeaseQeGZ .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-qJeaseQeGZ .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qJeaseQeGZ .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-qJeaseQeGZ .navbar-collapse.collapsing .navbar-buttons,
   .cid-qJeaseQeGZ .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2246,5 +2256,5 @@ body {
 }
 .cid-qJeaseQeGZ .nav-link:hover,
 .cid-qJeaseQeGZ .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #cebfaf !important;
 }
