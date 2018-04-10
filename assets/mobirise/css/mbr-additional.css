@@ -1788,39 +1788,39 @@ body {
 .cid-qO83FEpuKP .card-img {
   color: #f4f1ea;
 }
-.cid-qOOYpq6c39 {
+.cid-qOOZsgICUx {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #4e6e58;
 }
 @media (max-width: 767px) {
-  .cid-qOOYpq6c39 .media-wrap {
+  .cid-qOOZsgICUx .media-wrap {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qOOYpq6c39 .media-wrap .mbr-iconfont-logo {
+.cid-qOOZsgICUx .media-wrap .mbr-iconfont-logo {
   font-size: 7rem;
   color: #f36;
 }
-.cid-qOOYpq6c39 .media-wrap img {
+.cid-qOOZsgICUx .media-wrap img {
   height: 6rem;
 }
-.cid-qOOYpq6c39 .mbr-text {
+.cid-qOOZsgICUx .mbr-text {
   color: #767676;
 }
 @media (max-width: 767px) {
-  .cid-qOOYpq6c39 .footer-lower .copyright {
+  .cid-qOOZsgICUx .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qOOYpq6c39 .footer-lower hr {
+.cid-qOOZsgICUx .footer-lower hr {
   margin: 1rem 0;
   border-color: #000;
   opacity: .05;
 }
-.cid-qOOYpq6c39 .footer-lower .social-list {
+.cid-qOOZsgICUx .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1829,33 +1829,32 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qOOYpq6c39 .footer-lower .social-list .mbr-iconfont-social {
+.cid-qOOZsgICUx .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #232323;
 }
-.cid-qOOYpq6c39 .footer-lower .social-list .soc-item {
+.cid-qOOZsgICUx .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qOOYpq6c39 .footer-lower .social-list a {
+.cid-qOOZsgICUx .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qOOYpq6c39 .footer-lower .social-list a:hover {
+.cid-qOOZsgICUx .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qOOYpq6c39 .footer-lower .social-list {
+  .cid-qOOZsgICUx .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qOOYpq6c39 .copyright > p {
+.cid-qOOZsgICUx .copyright > p {
   color: #f4f1ea;
-  text-align: left;
 }
-.cid-qOOYpq6c39 .links {
+.cid-qOOZsgICUx .links {
   color: #f4f1ea;
   text-align: right;
 }
