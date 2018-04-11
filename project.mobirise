@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TrashCache",
-    "currentPage": "already-know.html",
+    "currentPage": "now-know.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 96,
     "versionPublish": "4.6.5",
@@ -36,7 +36,8 @@
         "#996875",
         "#2e2e2e",
         "#e1adbb",
-        "#544b3d"
+        "#544b3d",
+        "#fdfdfd"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -3363,7 +3364,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#4e6e58\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\"></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fdfdfd\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-2k",
           "_isUserblock": true,
           "_cid": "qOW3OKyGd0",
@@ -3378,7 +3379,7 @@
             "codeEdit": false,
             "tinyEdit": false
           },
-          "_customHTML": "<iframe src=\"https://gsu.qualtrics.com/jfe/form/SV_2lOEqdL6Gh4XX3T\" height=\"680px\" width=\"100%\"></iframe>",
+          "_customHTML": "<iframe src=\"https://gsu.qualtrics.com/jfe/form/SV_2lOEqdL6Gh4XX3T\" height=\"700px\" width=\"100%\"></iframe>",
           "_customCSS": ".tinymce{background-color:white;text-align:center;}",
           "alias": "deltapicodeedit",
           "_tags": [
@@ -3903,7 +3904,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#4e6e58\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qOW2V7oDSD",
           "_protectedParams": [],
           "_global": false,
@@ -3917,7 +3918,7 @@
             "codeEdit": false,
             "tinyEdit": false
           },
-          "_customHTML": "<iframe src=\"https://gsu.qualtrics.com/jfe/form/SV_bBBVMgoMcvaC4ND\" height=\"680px\" width=\"100%\"></iframe>",
+          "_customHTML": "<iframe src=\"https://gsu.qualtrics.com/jfe/form/SV_bBBVMgoMcvaC4ND\" height=\"700px\" width=\"100%\"></iframe>",
           "_customCSS": ".tinymce{background-color:white;text-align:center;}",
           "alias": "deltapicodeedit",
           "_tags": [
