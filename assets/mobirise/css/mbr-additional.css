@@ -1683,7 +1683,7 @@ body {
   color: #4e6e58;
 }
 .cid-qO85dcE0Zo {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #f4f1ea;
 }
@@ -2193,11 +2193,12 @@ body {
   color: #cebfaf !important;
 }
 .cid-qO8etYkbGr {
-  background: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background: #f4f1ea;
 }
 .cid-qO8etYkbGr .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-qO8etYkbGr .mbr-figure {
   margin: 0 auto;
@@ -2212,98 +2213,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qO8etYkbGr .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qO8ewR89de {
-  background: #ffffff;
-}
-.cid-qO8ewR89de .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qO8ewR89de .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qO8ewR89de figcaption {
-  position: relative;
-}
-.cid-qO8ewR89de figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qO8ewR89de .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qOXmoiWdFb {
-  background: #ffffff;
-}
-.cid-qOXmoiWdFb .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qOXmoiWdFb .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qOXmoiWdFb figcaption {
-  position: relative;
-}
-.cid-qOXmoiWdFb figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qOXmoiWdFb .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qOXmGDZHbY {
-  background: #ffffff;
-}
-.cid-qOXmGDZHbY .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qOXmGDZHbY .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qOXmGDZHbY figcaption {
-  position: relative;
-}
-.cid-qOXmGDZHbY figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qOXmGDZHbY .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qOXmEXi2y6 {
-  background: #ffffff;
-}
-.cid-qOXmEXi2y6 .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qOXmEXi2y6 .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qOXmEXi2y6 figcaption {
-  position: relative;
-}
-.cid-qOXmEXi2y6 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qOXmEXi2y6 .image-block {
     width: 100% !important;
   }
 }
