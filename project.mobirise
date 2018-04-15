@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "TrashCache",
-    "currentPage": "already-know.html",
+    "currentPage": "now-know.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 132,
+    "uniqCompNum": 133,
     "versionPublish": "4.6.5",
     "theme": {
       "name": "mobirise4",
@@ -4225,6 +4225,31 @@
               "color": "#4e6e58"
             }
           }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            },
+            ".mbr-text B": {
+              "color": "#4e6e58"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><font color=\"#4e6e58\"><b>Want to do more for Project Trash Cache?</b></font></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-3o",
+          "_isUserblock": true,
+          "_cid": "qPkvSsms8z",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "_styles": {
