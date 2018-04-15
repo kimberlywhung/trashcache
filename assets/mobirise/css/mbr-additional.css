@@ -2194,7 +2194,7 @@ body {
 }
 .cid-qO8etYkbGr {
   padding-top: 90px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background: #f4f1ea;
 }
 .cid-qO8etYkbGr .image-block {
@@ -2213,6 +2213,126 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qO8etYkbGr .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qPjp98UJ3d {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #f4f1ea;
+}
+.cid-qPjp98UJ3d .image-block {
+  margin: auto;
+}
+.cid-qPjp98UJ3d .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPjp98UJ3d figcaption {
+  position: relative;
+}
+.cid-qPjp98UJ3d figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qPjp98UJ3d .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qPjpmBDc3T {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #f4f1ea;
+}
+.cid-qPjpmBDc3T .image-block {
+  margin: auto;
+}
+.cid-qPjpmBDc3T .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPjpmBDc3T figcaption {
+  position: relative;
+}
+.cid-qPjpmBDc3T figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qPjpmBDc3T .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qPjpqnOgyY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #f4f1ea;
+}
+.cid-qPjpqnOgyY .image-block {
+  margin: auto;
+}
+.cid-qPjpqnOgyY .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPjpqnOgyY figcaption {
+  position: relative;
+}
+.cid-qPjpqnOgyY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qPjpqnOgyY .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qPjpumxExx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #f4f1ea;
+}
+.cid-qPjpumxExx .image-block {
+  margin: auto;
+}
+.cid-qPjpumxExx .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPjpumxExx figcaption {
+  position: relative;
+}
+.cid-qPjpumxExx figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qPjpumxExx .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qPjpyEGihr {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #f4f1ea;
+}
+.cid-qPjpyEGihr .image-block {
+  margin: auto;
+}
+.cid-qPjpyEGihr .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPjpyEGihr figcaption {
+  position: relative;
+}
+.cid-qPjpyEGihr figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qPjpyEGihr .image-block {
     width: 100% !important;
   }
 }
