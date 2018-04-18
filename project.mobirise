@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TrashCache",
-    "currentPage": "learn.html",
+    "currentPage": "already-know.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 147,
     "versionPublish": "4.6.5",
@@ -28,7 +28,7 @@
         "display4Size": 1,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#000000",
