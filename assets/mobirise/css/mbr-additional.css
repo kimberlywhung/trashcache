@@ -2202,12 +2202,12 @@ body {
   color: #767676;
 }
 .cid-qPBJ4nU8xw {
-  background: #149dcc;
-  background: linear-gradient(0deg, #149dcc, #4f4943);
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #f4f1ea;
 }
 .cid-qPBJ4nU8xw .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qPBJ4nU8xw .video-block {
